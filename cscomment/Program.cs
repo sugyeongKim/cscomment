@@ -31,10 +31,6 @@ namespace cscomment
                 Console.WriteLine();
             }
 
-
-
-
-
         }
     }
 }
